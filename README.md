@@ -1,8 +1,8 @@
 
 <!-- Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Hi%20👋%20I'm%20Rita%20Pessoa!&fontSize=35&fontAlignY=35&desc=From%20Pharmacy%20to%20Data%20and%20Tech&descAlignY=55&animation=fadeIn" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a00ff,100:8a2be2&height=180&section=header&text=Hi%20👋%20I'm%20Rita%20Pessoa!&fontSize=35&fontAlignY=35&desc=From%20Pharmacy%20to%20Data%20and%20Tech&descAlignY=55&animation=fadeIn" />
+
 
 ---
 
