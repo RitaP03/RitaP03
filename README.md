@@ -8,10 +8,10 @@
 
 ### 💊 About Me
 I’m **Rita Pessoa**, a former *Pharmaceutical Sciences* graduate now studying **Computer Engineering** at the Polytechnic Institute of Coimbra (ISEC).  
-I discovered my passion for **data, systems, and technology** while developing my final pharmacy project — and haven’t looked back since.  
+I discovered my passion for **data, systems, and technology** while developing my final pharmacy project - and haven’t looked back since.  
 
 💡 I love working with data, exploring **databases**, **ETL processes**, and **information systems** that make businesses smarter and more efficient.  
-🧠 Analytical by training, creative by nature — always curious, always learning.
+🧠 Analytical by training, creative by nature - always curious, always learning.
 
 ---
 
@@ -80,7 +80,7 @@ Theoretical study comparing ETL and ELT processes and their impact on data integ
 ---
 
 ### ✨ Fun Fact
-I built my first app while studying Pharmacy — it analyzed clinical data and ended up sparking my passion for technology.
+I built my first app while studying Pharmacy - it analyzed clinical data and ended up sparking my passion for technology.
 
 ---
 
