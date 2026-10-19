@@ -47,12 +47,7 @@ CNN and MobileNetV2 transfer learning (TensorFlow/Keras), hyperparameter search 
 Java application that extracts and normalizes country data from two sources into XML validated by DTD/XSD, with XPath/XQuery queries.
  
 ---
- 
-### 🎯 Currently Learning
-- Advanced **SQL** querying and optimization
-- **Python for data analysis** (pandas)
-- **Data visualization** with Power BI
----
+
  
 ### 📫 Get in Touch
 <p align="left">
