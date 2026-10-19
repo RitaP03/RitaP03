@@ -19,6 +19,7 @@ I got into technology while building an app that analyzed clinical data during m
   <img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/HTML/CSS-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 </p>
+
 #### Data and tools
 <p align="left">
   <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
