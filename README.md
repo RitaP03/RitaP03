@@ -29,6 +29,7 @@ I got into technology while building an app that analyzed clinical data during m
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
   <img src="https://img.shields.io/badge/OutSystems-ED1C24?style=for-the-badge&logo=outsystems&logoColor=white"/>
 </p>
+
 ---
  
 ### 🚀 Featured Projects
